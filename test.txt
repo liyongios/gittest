@@ -7,3 +7,4 @@ abcd
 test
 master
 testing
+ABCD
